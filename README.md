@@ -4,13 +4,13 @@
 
 ## 安裝
 
-1. 克隆這個倉庫：
+1. Clone repo：
     ```bash
     git clone <repository-url>
     cd geoip-country-counter
     ```
 
-2. 安裝所需的 Python 庫：
+2. 安裝所需的 Python Library：
     ```bash
     pip install geoip2
     ```
